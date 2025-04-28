@@ -4,7 +4,7 @@ function Maanantai() {
   return (
     <div>
       <h2>Perjantai</h2>
-      <p>Ruokalista: Pastaa ja salaattia</p>
+      <p>Ruokalista: Kebabkastiketta, Palak paneer tofusta, Riisiä</p>
     </div>
   );
 }
